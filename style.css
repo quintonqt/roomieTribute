@@ -4,6 +4,19 @@
 
 body {
 	font-family: "Lucida Sans Unicode", sans-serif;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 1.2em;
+	padding: 20px;
+}
+
+/*
+p {
+	font-size: 1.3em;
+}
+*/
+.beige-background {
+	background-color: #DEB887;
 }
 
 .horiz-image {
@@ -12,4 +25,16 @@ body {
 
 .vert-image {
 	width: 350px;
+}
+
+#top {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	font-size: 0.7em;
+}
+
+#friend-text {
+	background-color: #FFFAF0;
+	padding: 10px 50px 10px 50px;
 }
