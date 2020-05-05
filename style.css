@@ -17,14 +17,11 @@ body {
 h1 {
 	text-align: center;
 }
-/*
-p {
-	font-size: 1.3em;
-}
-*/
 
-h3 {
+#quote {
 	text-align: center;
+	font-size: 1.1em;
+	font-weight: bold;
 }
 
 img.center {
@@ -60,7 +57,7 @@ img.center {
 }
 
 #friend-text {
-	background-color: #E2DBAC;
+	background-color: rgba(226,219,172,0.7);
 	padding: 10px 50px 10px 50px;
 }
 
