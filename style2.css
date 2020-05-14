@@ -4,7 +4,7 @@ html {
 
 body {
 	font-family: "Lucida Sans Unicode", sans-serif;
-	font-size: 17px;
+	font-size: 30px;
 	padding: 20px;
 }
 
@@ -15,7 +15,7 @@ h1 {
 
 #quote {
 	text-align: center;
-	font-size: 1.1em;
+	font-size: 35em;
 	font-weight: bold;
 }
 
@@ -74,6 +74,10 @@ img.center {
 
   #friend-text {
   	width: 60%;
+  }
+
+  #quote {
+  	font-size: 1.1em;
   }
 
 }
